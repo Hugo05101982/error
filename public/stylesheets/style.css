@@ -154,3 +154,13 @@
 p {
   font-size: 23px;
 }
+
+.form-label, .form-control {
+  position: relative;
+  top: 250px;
+  
+}
+.btn {
+  position: relative;
+  top: 250px;
+}
